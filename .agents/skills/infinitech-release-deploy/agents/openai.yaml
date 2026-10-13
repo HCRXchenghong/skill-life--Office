@@ -1,0 +1,3 @@
+interface:
+  display_name: "Infinitech Release & Deploy"
+  short_description: "Publish a GitHub tag and deploy it over LAN SSH"
